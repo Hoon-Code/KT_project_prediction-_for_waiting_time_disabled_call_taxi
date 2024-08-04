@@ -85,8 +85,8 @@
 ![image](https://github.com/user-attachments/assets/c3d5b95b-90bb-4b27-9866-8636ffbab00d)
 ![image](https://github.com/user-attachments/assets/8eaf8d0a-4fc8-489e-90ec-7cfa1096edfc)
 
-### *모델별 비교*
+### 모델별 비교
 ![image](https://github.com/user-attachments/assets/25a53a01-e73b-4330-ac3b-c0616484bb33)
 
-- XGB, RF, LinearRegression 모델 성능 우수 확인
+- ***XGB, RF, LinearRegression*** 모델 성능 우수 확인
 
